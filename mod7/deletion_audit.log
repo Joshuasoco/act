@@ -1,0 +1,7 @@
+[2026-01-29 04:47:48] TEST_MARKER_1769701668
+[2026-01-29 04:47:48] START: Secure deletion for 'test_secret.txt' (30 bytes)
+[2026-01-29 04:47:48] PASS 1/1: Overwritten with random data.
+[2026-01-29 04:47:48] SUCCESS: File 'test_secret.txt' has been permanently deleted.
+[2026-01-29 04:47:48] START: Secure deletion for 'test_secret.txt' (30 bytes)
+[2026-01-29 04:47:48] PASS 1/1: Overwritten with random data.
+[2026-01-29 04:47:48] SUCCESS: File 'test_secret.txt' has been permanently deleted.
